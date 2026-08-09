@@ -1,0 +1,13 @@
+{
+  "partido_id": "jornada5_platense_incs",
+  "eventos": [
+    {
+      "tipo": "gol",
+      "minuto": 23,
+      "jugador_id": "j001",
+      "equipo_id": "platense",
+      "detalle": null,
+      "registrado_en": "2026-08-09T23:39:01.725Z"
+    }
+  ]
+}
