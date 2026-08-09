@@ -1,0 +1,23 @@
+{
+  "partido_id": "jornada5_platense_incs",
+  "titulares": [
+    {
+      "numero": 1,
+      "nombre": "Juan Perez",
+      "posicion": "POR"
+    },
+    {
+      "numero": 10,
+      "nombre": "Carlos Gomez",
+      "posicion": "DEL"
+    }
+  ],
+  "suplentes": [
+    {
+      "numero": 12,
+      "nombre": "Luis Ramirez",
+      "posicion": "POR"
+    }
+  ],
+  "dt": "Roberto Diaz"
+}
