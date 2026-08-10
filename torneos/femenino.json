@@ -4,8 +4,8 @@
   "config": {
     "titulares": 11,
     "suplentes": true,
-    "capitan": true,
-    "color_capitan": "#FFD700",
-    "dt_formato": "dt_mas_nombre"
+    "capitan": false,
+    "color_capitan": "#ffd700",
+    "dt_formato": "solo_nombre"
   }
 }
