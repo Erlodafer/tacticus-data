@@ -1,0 +1,13 @@
+[
+  {
+    "torneo_id": "femenino",
+    "nombre": "Femenino",
+    "config": {
+      "titulares": 11,
+      "suplentes": true,
+      "capitan": true,
+      "color_capitan": "#FFD700",
+      "dt_formato": "dt_mas_nombre"
+    }
+  }
+]
