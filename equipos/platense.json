@@ -1,0 +1,22 @@
+{
+  "equipo_id": "platense",
+  "nombre": "C.D. Platense",
+  "logo": "https://i.ibb.co/PsDdmDfg/PLATENSE.png",
+  "jugadores": [
+    {
+      "numero": 1,
+      "nombre": "Juan",
+      "apellido": "Perez"
+    },
+    {
+      "numero": 10,
+      "nombre": "Carlos",
+      "apellido": "Gomez"
+    },
+    {
+      "numero": 7,
+      "nombre": "Diego",
+      "apellido": "Fernandez"
+    }
+  ]
+}
